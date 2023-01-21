@@ -7,7 +7,7 @@
 
 In order to create API requests, the decription of the intended request must be properly written through <b>Swagger</b> specifications.
 
-![image](code.png)
+![image](code.jpg)
 
 In the <b>DELETE</b> example above, you'll notice that even before the code for the request is written, the <b>Swagger</b> structure is called by @swagger. 
 
